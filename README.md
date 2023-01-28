@@ -20,7 +20,7 @@
 <p align="left">
  Investigar, pesquisar e implementar soluções para as distintas situações que se apresentam no dia-a-dia faz parte do meu cotidiano.
 
-Amante por novas tecnologias, mas sem perder de vista a agilidade e a qualidade que são norteadores do que busco entregar uma vez cada tecnologia tem sua vez dentro do mundo real.
+Amante por novas tecnologias, mas sem perder de vista a agilidade e a qualidade que são norteadores do que busco entregar, sabendo que cada tecnologia tem sua vez dentro do mundo real.
 </p>
 
 #### 📫 Gostaria de conversar comigo?
