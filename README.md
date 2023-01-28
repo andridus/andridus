@@ -44,4 +44,75 @@ Pegue um horário na agenda, mas descreva muito bem sobre o que vamos falar!
 ---
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-4%20hrs%201%20min-blue)
+
+![Profile Views](http://img.shields.io/badge/Profile%20Views-61-blue)
+
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-719%20Thousand%20lines%20of%20code-blue)
+
+**🐱 My GitHub Data** 
+
+> 🏆 159 Contributions in the Year 2023
+ > 
+> 📦 124.4 kB Used in GitHub's Storage 
+ > 
+> 💼 Opted to Hire
+ > 
+> 📜 34 Public Repositories 
+ > 
+> 🔑 20 Private Repositories  
+ > 
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning    277 commits    █████████░░░░░░░░░░░░░░░░   38.85% 
+🌆 Daytime    317 commits    ███████████░░░░░░░░░░░░░░   44.46% 
+🌃 Evening    109 commits    ███░░░░░░░░░░░░░░░░░░░░░░   15.29% 
+🌙 Night      10 commits     ░░░░░░░░░░░░░░░░░░░░░░░░░   1.4%
+
+```
+📅 **I'm Most Productive on Monday** 
+
+```text
+Monday       169 commits    ██████░░░░░░░░░░░░░░░░░░░   23.7% 
+Tuesday      85 commits     ███░░░░░░░░░░░░░░░░░░░░░░   11.92% 
+Wednesday    87 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.2% 
+Thursday     165 commits    █████░░░░░░░░░░░░░░░░░░░░   23.14% 
+Friday       140 commits    █████░░░░░░░░░░░░░░░░░░░░   19.64% 
+Saturday     35 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   4.91% 
+Sunday       32 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   4.49%
+
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+⌚︎ Time Zone: America/Fortaleza
+
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🔥 Editors: 
+No Activity Tracked This Week
+
+💻 Operating System: 
+No Activity Tracked This Week
+
+```
+
+**I Mostly Code in Elixir** 
+
+```text
+Elixir                   23 repos            █████████████░░░░░░░░░░░░   53.49% 
+JavaScript               12 repos            ███████░░░░░░░░░░░░░░░░░░   27.91% 
+Vue                      4 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   9.3% 
+CSS                      1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   2.33% 
+Dockerfile               1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   2.33%
+
+```
+
+
+
+ Last Updated on 28/01/2023 13:13:10 UTC
 <!--END_SECTION:waka-->
