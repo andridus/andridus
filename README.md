@@ -17,5 +17,3 @@ Pegue um horário na agenda, mas descreva muito bem sobre o que vamos falar!
 ---
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
-
-**These Readme stats are generated using github action [awesome-readme-stats](https://github.com/anmol098/waka-readme-stats)**
