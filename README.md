@@ -44,7 +44,7 @@ Pegue um horário na agenda, mas descreva muito bem sobre o que vamos falar!
 ---
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-9%20hrs%207%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-3%20hrs%2014%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-91-blue)
 
@@ -52,13 +52,13 @@ Pegue um horário na agenda, mas descreva muito bem sobre o que vamos falar!
 
 **🐱 My GitHub Data** 
 
-> 🏆 169 Contributions in the Year 2023
+> 🏆 170 Contributions in the Year 2023
  > 
 > 📦 124.8 kB Used in GitHub's Storage 
  > 
 > 💼 Opted to Hire
  > 
-> 📜 36 Public Repositories 
+> 📜 37 Public Repositories 
  > 
 > 🔑 21 Private Repositories  
  > 
@@ -91,13 +91,17 @@ Sunday       32 commits     █░░░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: America/Fortaleza
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+V                        4 hrs 49 mins       ████████████████████░░░░░   81.24% 
+YAML                     32 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   9.07% 
+Markdown                 16 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   4.73% 
+TypeScript               10 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   2.92% 
+Elixir                   2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.84%
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  5 hrs 56 mins       █████████████████████████   100.0%
 
 💻 Operating System: 
-No Activity Tracked This Week
+Linux                    5 hrs 56 mins       █████████████████████████   100.0%
 
 ```
 
@@ -114,5 +118,5 @@ Dockerfile               1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 29/01/2023 01:05:18 UTC
+ Last Updated on 29/01/2023 12:57:21 UTC
 <!--END_SECTION:waka-->
