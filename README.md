@@ -44,9 +44,9 @@ Pegue um horário na agenda, mas descreva muito bem sobre o que vamos falar!
 ---
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-3%20hrs%2014%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-9%20hrs%2010%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-91-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-95-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-759%20Thousand%20lines%20of%20code-blue)
 
@@ -118,5 +118,5 @@ Dockerfile               1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 29/01/2023 12:57:21 UTC
+ Last Updated on 30/01/2023 00:59:31 UTC
 <!--END_SECTION:waka-->
