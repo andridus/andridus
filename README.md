@@ -35,6 +35,7 @@ Pegue um horário na agenda, mas descreva muito bem sobre o que vamos falar!
 
   <p align="left">
     <a href="https://github.com/andridus/httpmock"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=andridus&repo=httpmock&theme=default&show_icons=true" alt="HTTPMock"></a>
+    <a href="https://github.com/andridus/typed"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=andridus&repo=typed&theme=default&show_icons=true" alt="Typed"></a>
     <a href="https://github.com/andridus/bee"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=andridus&repo=bee&theme=default&show_icons=true" alt="Be"></a>
 
   </p>
