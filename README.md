@@ -45,7 +45,7 @@ Pegue um horário na agenda, mas descreva muito bem sobre o que vamos falar!
 ---
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-436%20hrs%2053%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-444%20hrs%2031%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
 
@@ -55,11 +55,11 @@ Pegue um horário na agenda, mas descreva muito bem sobre o que vamos falar!
 
 > 📦 122.6 kB Used in GitHub's Storage 
  > 
-> 🏆 881 Contributions in the Year 2023
+> 🏆 882 Contributions in the Year 2023
  > 
 > 💼 Opted to Hire
  > 
-> 📜 43 Public Repositories 
+> 📜 44 Public Repositories 
  > 
 > 🔑 20 Private Repositories 
  > 
@@ -90,17 +90,17 @@ Sunday                   141 commits         █░░░░░░░░░░�
 🕑︎ Time Zone: America/Fortaleza
 
 💬 Programming Languages: 
-Elixir                   37 hrs 37 mins      █████████████████████░░░░   82.83 % 
-Other                    4 hrs 58 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.96 % 
-Markdown                 44 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.64 % 
-Erlang                   29 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.09 % 
-Bash                     17 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.65 % 
+Elixir                   34 hrs 6 mins       ███████████████████░░░░░░   76.99 % 
+Other                    5 hrs 10 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.69 % 
+Erlang                   2 hrs 4 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.70 % 
+Markdown                 55 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.10 % 
+Bash                     29 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.10 % 
 
 🔥 Editors: 
-VS Code                  45 hrs 25 mins      █████████████████████████   100.00 % 
+VS Code                  44 hrs 17 mins      █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Linux                    45 hrs 25 mins      █████████████████████████   100.00 % 
+Linux                    44 hrs 17 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Elixir** 
@@ -116,5 +116,5 @@ V                        1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 22/04/2023 00:55:43 UTC
+ Last Updated on 23/04/2023 00:59:58 UTC
 <!--END_SECTION:waka-->
