@@ -46,7 +46,7 @@ Pegue um horário na agenda, mas descreva muito bem sobre o que vamos falar!
 ---
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C316%20hrs-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C322%20hrs%2023%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -117,5 +117,5 @@ Lua                      1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 22/10/2023 00:53:34 UTC
+ Last Updated on 23/10/2023 00:50:05 UTC
 <!--END_SECTION:waka-->
