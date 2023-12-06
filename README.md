@@ -23,12 +23,6 @@
 Amante por novas tecnologias, mas sem perder de vista a agilidade e a qualidade que são norteadores do que busco entregar, sabendo que cada tecnologia tem sua vez dentro do mundo real.
 </p>
 
-#### 📫 Gostaria de conversar comigo?
-
-Pegue um horário na agenda, mas descreva muito bem sobre o que vamos falar!
-
-<a href="https://calendly.com/andridus/30min" target="_blank"><img width="498" alt="meet_link" src="https://user-images.githubusercontent.com/15426564/144297439-f530f383-e73e-41e0-9914-a9b7d3f432e5.png"></a>
-
 
 <details open>
   <summary><h4>📘 Meus projetos para a comunidade</h4></summary>
