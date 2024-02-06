@@ -40,7 +40,7 @@ Amante por novas tecnologias, mas sem perder de vista a agilidade e a qualidade 
 ---
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C625%20hrs%2022%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C625%20hrs%2043%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -112,5 +112,5 @@ HTML                     1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 05/02/2024 00:53:38 UTC
+ Last Updated on 06/02/2024 00:49:58 UTC
 <!--END_SECTION:waka-->
