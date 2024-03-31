@@ -40,7 +40,7 @@ Amante por novas tecnologias, mas sem perder de vista a agilidade e a qualidade 
 ---
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C676%20hrs%2042%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C681%20hrs%2029%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -83,7 +83,7 @@ Sunday                   280 commits         ░░░░░░░░░░░�
 🕑︎ Time Zone: America/Fortaleza
 
 💬 Programming Languages: 
-Elixir                   8 hrs 42 mins       ██████████████████████░░░   87.42 % 
+Elixir                   8 hrs 42 mins       ██████████████████████░░░   87.44 % 
 YAML                     28 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.82 % 
 Other                    18 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.06 % 
 TOML                     17 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.88 % 
@@ -109,5 +109,5 @@ HTML                     1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 30/03/2024 00:49:38 UTC
+ Last Updated on 31/03/2024 00:57:50 UTC
 <!--END_SECTION:waka-->
