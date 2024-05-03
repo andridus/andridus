@@ -40,7 +40,7 @@ Amante por novas tecnologias, mas sem perder de vista a agilidade e a qualidade 
 ---
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C803%20hrs%2016%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C807%20hrs%208%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -50,7 +50,7 @@ Amante por novas tecnologias, mas sem perder de vista a agilidade e a qualidade 
 
 > 📦 128.9 kB Used in GitHub's Storage 
  > 
-> 🏆 72 Contributions in the Year 2024
+> 🏆 73 Contributions in the Year 2024
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -85,17 +85,17 @@ Sunday                   280 commits         ░░░░░░░░░░░�
 🕑︎ Time Zone: America/Fortaleza
 
 💬 Programming Languages: 
-Elixir                   11 hrs 6 mins       ████████████░░░░░░░░░░░░░   46.13 % 
-Vue.js                   5 hrs 45 mins       ██████░░░░░░░░░░░░░░░░░░░   23.93 % 
-JavaScript               3 hrs 33 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.78 % 
-Other                    1 hr 50 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.62 % 
-YAML                     1 hr 34 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.50 % 
+Elixir                   10 hrs 13 mins      █████████████░░░░░░░░░░░░   51.59 % 
+Vue.js                   3 hrs 12 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.15 % 
+JavaScript               3 hrs 1 min         ████░░░░░░░░░░░░░░░░░░░░░   15.22 % 
+Other                    1 hr 42 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.65 % 
+YAML                     1 hr 30 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.64 % 
 
 🔥 Editors: 
-VS Code                  24 hrs 5 mins       █████████████████████████   100.00 % 
+VS Code                  19 hrs 49 mins      █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Linux                    24 hrs 5 mins       █████████████████████████   100.00 % 
+Linux                    19 hrs 49 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Elixir** 
@@ -111,5 +111,5 @@ Lua                      1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 02/05/2024 00:54:11 UTC
+ Last Updated on 03/05/2024 00:57:24 UTC
 <!--END_SECTION:waka-->
